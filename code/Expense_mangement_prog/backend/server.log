@@ -1,0 +1,47 @@
+2026-10-05 16:45:04,590 - db_helper - INFO - fetch_expenses_for_date called with 2024-09-30
+2026-10-05 16:45:04,661 - db_helper - INFO - delete_expenses_for_date called with 2024-08-25
+2026-10-05 16:45:04,674 - db_helper - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2026-10-05 16:51:31,109 - name - INFO - fetch_expenses_for_date called with 2024-09-30
+2026-10-05 16:51:31,225 - name - INFO - delete_expenses_for_date called with 2024-08-25
+2026-10-05 16:51:31,237 - name - INFO - fetch_expense_summary called with start: 2024-08-01 end: 2024-08-05
+2026-10-05 17:52:39,729 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 17:52:57,793 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 17:55:41,493 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 17:57:22,356 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2026-10-05 18:04:48,521 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:04:51,905 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:06:42,389 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:06:59,639 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2026-10-05 18:07:27,081 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:07:28,235 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:09:34,493 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:09:39,957 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:10:16,653 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:11:23,557 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:11:40,602 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:11:50,943 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2026-10-05 18:20:08,992 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2026-10-05 18:20:12,603 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:20:16,374 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2026-10-05 18:20:21,366 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2026-10-05 18:20:23,007 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2026-10-05 18:21:09,694 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:25:12,076 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2026-10-05 18:25:21,286 - name - INFO - fetch_expenses_for_date called with 2024-08-02
+2026-10-05 18:25:29,108 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:34:05,734 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:34:12,414 - name - INFO - fetch_expenses_for_date called with 2024-08-07
+2026-10-05 18:34:17,703 - name - INFO - fetch_expenses_for_date called with 2024-08-08
+2026-10-05 18:34:19,829 - name - INFO - fetch_expenses_for_date called with 2024-08-01
+2026-10-05 18:34:23,313 - name - INFO - fetch_expenses_for_date called with 2024-08-07
+2026-10-05 18:34:33,014 - name - INFO - fetch_expenses_for_date called with 2024-08-07
+2026-10-05 18:34:36,755 - name - INFO - fetch_expenses_for_date called with 2024-08-07
+2026-10-05 18:34:44,759 - name - INFO - fetch_expenses_for_date called with 2024-08-10
+2026-10-05 18:34:49,617 - name - INFO - fetch_expenses_for_date called with 2024-08-10
+2026-10-05 18:34:49,706 - name - INFO - delete_expenses_for_date called with 2024-08-10
+2026-10-05 18:34:49,732 - name - INFO - insert_expense called with date: 2024-08-10, amount: 1227.0, category: Rent, notes: Monthly rent payment
+2026-10-05 18:34:49,773 - name - INFO - insert_expense called with date: 2024-08-10, amount: 300.0, category: Food, notes: Groceries for the week
+2026-10-05 18:34:49,790 - name - INFO - insert_expense called with date: 2024-08-10, amount: 1200.0, category: Rent, notes: Monthly rent payment
+2026-10-05 18:34:49,806 - name - INFO - insert_expense called with date: 2024-08-10, amount: 300.0, category: Food, notes: Groceries for the week
+2026-10-05 18:34:49,823 - name - INFO - insert_expense called with date: 2024-08-10, amount: 0.0, category: Shopping, notes: No expenses available
+2026-10-05 18:35:00,972 - name - INFO - fetch_expenses_for_date called with 2024-08-10

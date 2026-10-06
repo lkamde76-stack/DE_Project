@@ -1,0 +1,1 @@
+"\n{\n    \"name\":\"Pravin\",\n    \"age\":\"30\",\n    \"is_employee\":true,\n    \"skills\":[\"Python\",\"Data Engineering\",\"AI\",\"Machine Learning\"],\n    \"address\":{\n        \"street\":\"32, Ram Street\",\n        \"city\":\"Nagpur\"\n    }\n}\n"
